@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 # 💫 About Me:
-📢  I'm currently working as a Web developer.<br>🕺🧍‍♂️ I'm looking to collaborate on any open-source project.<br>✔✔  I'm looking for help with other developers who is fresher.<br>🌱 I'm currently learning web development.<br>💬 Ask me about outstanding testing.<br>♻ Fun fact - I'm lazy but intelligent.<br>🎆 Fresh hands code is my power.<br>🕺 Client satisfaction is my first priority.<br>
+📢 I'm currently working as a Web developer.<br>🕺 I'm looking to collaborate on any open-source project.<br>✔ I'm looking for help with other developers who is fresher.<br>🌱 I'm currently learning web development.<br>💬 Ask me about outstanding testing.<br>♻ Fun fact - I'm lazy but intelligent.<br>🎆 Fresh hands code is my power.<br>🕺 Client satisfaction is my first priority.<br>
 
 
 ## 🌐 Socials:
